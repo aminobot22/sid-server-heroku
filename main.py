@@ -26,8 +26,8 @@ import  threading
 from uuid import uuid4
 import aminos
 api="https://service.narvii.com/api/v1"
-key=""
-name=""
+key="967e107a-b0cf-45fe-8dbe-886a0fb0d6a2"
+name="coinhkjhkj77"
 def res():
     heroku_conn = heroku3.from_key(key)
     botapp= heroku_conn.apps()[name]
